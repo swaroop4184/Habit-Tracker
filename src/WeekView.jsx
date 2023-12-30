@@ -1,5 +1,5 @@
 import React from 'react'
-import DateTable from './dataTable'
+import DateTable from './DataTable'
 
 const WeekView = ({openedHabit, setOpenedHabit}) => {
   return (
